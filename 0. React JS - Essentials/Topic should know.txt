@@ -1,0 +1,13 @@
+Topic should know
+
+immutable vs mutable
+primitive and reference
+array
+objects 
+destructuring 
+import and export
+map filter
+arrow function(implicit return )
+spread operator
+
+
