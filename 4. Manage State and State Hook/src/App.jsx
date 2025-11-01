@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import State from "./components/State";
+import Card from "./components/Card";
 
 function App() {
   /*  const ans = useState(0)
@@ -96,7 +98,7 @@ function App() {
     </div>
   )
  */
-
+/* 
   const [val, setVal] = useState([
     {name: "Arjul", age:23}, 
     {name: "Moin", age: 20}, 
@@ -118,7 +120,14 @@ function App() {
         className="px-2 py-2 text-xs text-white rounded-xl bg-blue-500" type="button">Click
       </button>
     </div>
-  )
+  ) */
+
+    return(
+      <>
+        {/* <State />  */}
+        <Card />
+      </>
+    )
 
 }
 
