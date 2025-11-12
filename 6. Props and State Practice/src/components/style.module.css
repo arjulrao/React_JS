@@ -1,0 +1,15 @@
+.color {
+    color: rgb(255, 85, 0);
+}
+.backgroundColor {
+    background-color: #87dea7;
+}
+.fontBold {
+    font-weight: bold;
+}
+.borderRadius {
+    border-radius: 10px;
+}
+.paddingAll {
+    padding: 5px 10px;
+}
